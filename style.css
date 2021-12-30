@@ -1,0 +1,30 @@
+body{
+    margin-left: 200px;
+    margin-right: 800px;
+}
+
+h2{
+    border-bottom: 1px solid grey;
+    padding: 10px;
+}
+
+#top1{
+    text-decoration: none;
+    color: #51b9ff;
+}
+
+#top2{
+    display: block;
+}
+
+#top3{
+    display: inline;
+    font-size: small;
+    border-bottom: 1px solid #51b9ff;
+    padding: 5px;
+}
+
+#untop1{
+    background-color: rgb(188, 238, 238);
+    padding: 20px;
+}
